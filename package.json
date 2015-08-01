@@ -1,0 +1,17 @@
+{
+  "name": "faq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "meta-marked": "^0.3.3",
+    "minimist": "^1.1.2",
+    "config": "^1.15.0",
+    "hapi": "^8.8.1"
+  }
+}

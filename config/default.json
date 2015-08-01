@@ -1,0 +1,9 @@
+{
+	"faq": {
+		"input": "./docs/",
+		"output": "./app/data.json"
+	},
+	"connection": {
+		"port": 8000
+	}
+}
